@@ -1,4 +1,5 @@
-Question-1
+Question-1..................???
+    
 #include <iostream>
 using namespace std;
 
@@ -7,7 +8,7 @@ int main() {
     return 0;
 }
 ----------------------------------------------------------------------------------------------------
-Question-2
+Question-2.....................?
 include <cmath>
 #include <cstdio>
 #include <vector>
@@ -25,28 +26,28 @@ int main() {
     return 0;
 }
 -----------------------------------------------------------------------------------------------------
-Question-3    
+Question-3 .......................?   
 #include <iostream>
 #include <cstdio>
 using namespace std;
 
 int main()
     {
-       int x;
-    long y;
-    char z;
-    float w;
-    double t;
+    int v;
+    long w;
+    char x;
+    float y;
+    double z;
     
-    scanf("%d %ld %c %f %lf", &x , &y , &z , &w , &t);
-    printf("%d\n%ld\n%c\n%f\n%lf", x , y , z , w , t);
+    scanf("%d %ld %c %f %lf", &v , &w , &x , &y , &z);
+    printf("%d\n%ld\n%c\n%f\n%lf", v , w , x , y , z);
     
     
     
     return 0;
 }
 --------------------------------------------------------------------------------------------
-Question-4
+Question-4..................?
 
 #include <iostream>
 using namespace std;
@@ -79,7 +80,7 @@ int main(){
 
 ------------------------------------------------------------------------------------------------------------
 
-Question-5
+Question-5...............?
 
 #include <cmath>
 #include <cstdio>
@@ -110,7 +111,7 @@ int main()
 
 ---------------------------------------------------------------------------------------------------------------
 
-Question-6
+Question-6.................?
 
 #include <iostream>
 #include <cstdio>
@@ -146,7 +147,7 @@ int main()
 }
 
 --------------------------------------------------------------------------------------------------------------
-Question-7
+Question-7................?
 
 #include <iostream>
 #include <string>
@@ -178,7 +179,7 @@ int main()
 
 --------------------------------------------------------------------------------------------------------------
 
-Question-8
+Question-8...............?
 
 #include <iostream>
 using namespace std;
